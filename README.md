@@ -1,0 +1,3 @@
+# simple game map
+
+* easily reusable ...

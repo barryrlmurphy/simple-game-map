@@ -1,0 +1,33 @@
+{
+  "name": "bm-web-dev-template",
+  "version": "1.0.0",
+  "description": "Base template for new web projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barryrlmurphy/bm-web-dev-template.git"
+  },
+  "keywords": [
+    "base",
+    "web",
+    "template"
+  ],
+  "author": "Barry Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barryrlmurphy/bm-web-dev-template/issues"
+  },
+  "homepage": "https://github.com/barryrlmurphy/bm-web-dev-template#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.7.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
